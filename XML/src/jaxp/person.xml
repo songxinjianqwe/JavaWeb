@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person> 
+  <p1 id="1"> 
+    <name>NewSong</name>  
+    <age>30</age>  
+    <sex>male</sex> 
+  </p1>  
+  <p1 id="2"> 
+    <name>CYT</name>  
+    <age>18</age> 
+  </p1> 
+</person>
