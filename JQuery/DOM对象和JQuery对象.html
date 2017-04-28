@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>呵呵哒</title>
+</head>
+
+<script type="text/javascript" src="jquery-3.1.1.js">
+</script>
+<script type="text/javascript">
+    $(function(){/*
+        var $btn = $("button");//这里获取到的是所有的button
+        alert($btn.length);//这是一个数组，可以通过数组下标转为DOM对象
+        alert($btn[0].firstChild.nodeValue);//JQuery对象转为DOM对象
+        
+        var btn = document.getElementById("btn");//DOM对象转为JQuery对象
+        alert($(btn).text());//$(btn)是一个JQery对象
+        */
+        $("button").click(function(){
+           alert($(this).text()); //将自己转为JQuery对象
+        });
+    });
+</script>
+
+<body>
+    <button id="btn">I am a button</button>
+    <button >I am a button too </button>
+</body>
+</html>

@@ -1,0 +1,22 @@
+#div1{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+}
+#leftCombobox{
+    width: 200px;
+    height: 200px;
+}    
+
+#div2{
+    position: relative;
+    top:0px;
+    left:300px;
+    width: 200px;
+    height: 300px;
+}
+
+#rightCombobox{
+    width: 200px;
+    height: 200px;
+}    

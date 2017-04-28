@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>下拉列表</title>
+    <link rel="stylesheet" type="text/css" href="下拉列表.css">
+</head>
+<body>
+    <div id="div1" >
+    <select multiple="multiple" id="leftCombobox" >
+        <option>aaa</option>
+        <option>bbb</option>
+        <option>ccc</option>
+        <option>ddd</option>
+    </select><br>
+    <input type="button" value="moveSelectedToRight" onclick="moveSelectedToRight()"><br>
+    <input type="button" value="moveAllToRight" onclick="moveAllToRight()"><br>
+    </div>
+    
+    
+    <div id="div2">
+    <select multiple="multiple" id="rightCombobox">
+        <option>eee</option>
+    </select><br>
+    
+    <input type="button" value="moveSelectedToLeft" onclick="moveSelectedToLeft()"><br>
+    <input type="button" value="moveAllToLeft" onclick="moveAllToLeft()"><br>
+    </div>
+
+</body>
+    <script type="text/javascript" src="下拉列表.js"></script> 
+</html>

@@ -1,0 +1,8 @@
+div{
+    width:100px;
+    height:100px;
+    border:dashed chartreuse 5px;
+}
+#div1{
+    float:left;
+}

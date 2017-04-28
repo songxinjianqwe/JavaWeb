@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/JavaScript/DOM/DOM树4.js" description="&#10;" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8a1b60-c162-40c3-ab50-62d7abbcddf9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$I0EDXQ0.exe" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$I591Y0U" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$I5J0IM2" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$I8IKL5A" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IALQ5V6.png" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IDYO6BZ" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IHQZOHA" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IOIH50Q" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IPM3K8A.png" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IQVEOID.png" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IRGWLN3.zip" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/$IWPBBVQ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat.jpeg" />
+      <change type="NEW" beforePath="" afterPath="D:/$RECYCLE.BIN/S-1-5-21-672979290-1426420636-3744497758-1001/desktop.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/99乘法表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Array1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Array2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/A.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/B.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/BOM.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/C.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/History.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/Open.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/Open.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/Window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/BOM/Window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/DOM树4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/InnerHTML.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/InnerHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Node2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/Node2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例1/Selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例1/Selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例1/Window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例1/Window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例2/AddNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例2/Table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例4/全选.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例4/全选.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Date1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Function1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Function2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Function3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Intro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/String.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/String2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Variables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/全局函数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/函数重载.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Test2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Test3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Test4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/firstCSS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/图像签名.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/图像签名.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/图文混排.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/图文混排.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/定位.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/定位.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/漂浮.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/漂浮.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/盒子模型.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/formCase.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/ok.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/otherLables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/table2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/table3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/test2.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="html学习" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NewSong" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JavaScript/Array2.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Date1.js" />
+        <option value="$PROJECT_DIR$/JavaScript/全局函数.js" />
+        <option value="$PROJECT_DIR$/JavaScript/函数重载.js" />
+        <option value="$PROJECT_DIR$/JavaScript/BOM.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Intro.html" />
+        <option value="$PROJECT_DIR$/JavaScript/A.html" />
+        <option value="$PROJECT_DIR$/JavaScript/C.html" />
+        <option value="$PROJECT_DIR$/JavaScript/B.html" />
+        <option value="$PROJECT_DIR$/JavaScript/History.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Window.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Window.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Open.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Open.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例/Window.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例/Window.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例/Selection.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例/Selection.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例2/AddNode.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例2/Table.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例2/Element.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Element.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Element.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Node.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Node.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Node2.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/Node2.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树.css" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM树.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树2.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树2.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树3.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树3.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/DOM树4.js" />
+        <option value="$PROJECT_DIR$/JavaScript/InnerHTML.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/InnerHTML.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/InnerHTML.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例4/全选.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例4/全选.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.css" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.js" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.html" />
+        <option value="$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\html学习\JavaScript\DOM" />
+      <recent name="D:\web\html学习\JavaScript\BOM" />
+      <recent name="D:\web\html学习\html" />
+      <recent name="D:\web\html学习\img" />
+      <recent name="D:\web\html学习" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\html学习\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Window.html">
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html学习/html/test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="test2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html学习/html/test2.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="table.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html学习/html/table.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Intro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html学习/JavaScript/Intro.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Window.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html学习/JavaScript/DOM/案例/Window.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test2.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.table.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Intro.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Window.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Window.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Intro.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.table.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.test2.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8a1b60-c162-40c3-ab50-62d7abbcddf9" name="Default" comment="" />
+      <created>1484142911149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484142911149</updated>
+      <workItem from="1484142912383" duration="2956000" />
+      <workItem from="1484181114600" duration="4266000" />
+      <workItem from="1484197431722" duration="13489000" />
+      <workItem from="1484224986810" duration="6490000" />
+      <workItem from="1484266455822" duration="9329000" />
+      <workItem from="1484289591032" duration="16095000" />
+      <workItem from="1484355279485" duration="7115000" />
+      <workItem from="1484376236052" duration="15599000" />
+      <workItem from="1484403310586" duration="979000" />
+      <workItem from="1485179504797" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76367000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48232612" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5176739" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <confirmMoveToFailedCommit value="1" />
+    <MESSAGE value="html学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="html学习代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaScript/String2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Array1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Array2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Date1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/全局函数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/函数重载.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/BOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/B.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/History.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/C.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/A.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/Window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/Window.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/Open.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/BOM/Open.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例1/Window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例1/Window.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例1/Selection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例1/Selection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例2/AddNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例2/Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Node.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Node2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/Node2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#addElements#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/InnerHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/InnerHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例3/显示时间.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例4/全选.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例4/全选.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例5/下拉列表.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例6/省市联动.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/DOM树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/案例7/动态生成表格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

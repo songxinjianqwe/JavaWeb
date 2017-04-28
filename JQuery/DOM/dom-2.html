@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script type="text/javascript" src="../jquery-3.1.1.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("li").click(function(){
+           alert($(this).text()); 
+        });
+        //复制
+//      $("#bj").clone().insertAfter("#rl");
+//        $("#bj").clone(true).attr("id","bj2").insertAfter("#rl");//修改id，id不应重复
+        //替换
+        //创建一个结点，替换city的最后一个结点
+//        $("<li>呵呵哒</li>").replaceAll("#city li:last");//replaceAll是前者代替了后者
+        //等价于
+//        $("#city li:last").replaceWith($("<li>呵呵哒</li>"));
+        //替换city的第二个结点
+        //写法1：
+//        $("#city :nth-child(2)").replaceWith($("<li>呵呵哒</li>"));
+        //写法2：//eq的参数是索引，从0开始
+        $("#city li:eq(1)").replaceWith($("<li>呵呵哒</li>"));
+        
+        
+        //将bj和rl结点交换位置
+        var $bj2 = $("#bj").clone(true);
+        var $rl = $("#rl").replaceWith($bj2);//注意，如果左右两侧都是已有结点，那么实际上是删掉了一个结点，被替换的结点被删除了
+        //replaceWith返回值为被替换掉的结点
+        $("#bj").replaceWith($rl); 
+    });
+</script>
+
+<body>
+
+<p>你喜欢哪个城市?</p>
+
+<ul id="city">
+    <li id="bj">北京</li>
+    <li>上海</li>
+    <li>东京</li>
+    <li>首尔</li>
+</ul>
+
+<br><br>
+<p>你喜欢哪款单机游戏?</p>
+<ul id="game">
+    <li id="rl">红警</li>
+    <li>实况</li>
+    <li>极品飞车</li>
+    <li>魔兽</li>
+</ul>
+
+<br><br>
+
+<form action="" name="myform">
+    <input type="radio" name="type" value="city">城市
+    <input type="radio" name="type" value="game">游戏
+    name: <input type="text" name="name"/>
+    <input type="submit" value="Submit" id="submit"/>
+</form>
+</body>
+</html>

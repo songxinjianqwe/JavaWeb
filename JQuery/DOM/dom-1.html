@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script type="text/javascript" src="../jquery-3.1.1.js"></script>
+<script type="text/javascript">
+    $(function(){
+        //1、操作文本结点
+       alert($("#bj").text());
+       $("#bj").text("帝都");
+       //2、操作属性结点
+       alert($(":text[name='username']").attr("value"));
+       $(":text[name='username']").attr("value","用户名");
+       //操作value属性更直接的方法
+        $(":text[name='username']").val("username");
+       //3、创建和插入结点
+        var $li = $("<li id='nj'>南京</li>");
+        $("#city").append($li);
+        //或者是这样子
+        $("<li id='jn'>济南</li>").appendTo($("#city"));//主语和宾语互换位置
+
+        $("<li id='sz'>苏州</li>").prependTo($("#city"));//主语和宾语互换位置
+        
+        
+        //同级之间的插入
+        $("<li id='sq'>宿迁</li>").insertAfter($("#jn"));
+        
+    });
+    
+</script>
+
+<body>
+<p>你喜欢哪个城市?</p>
+<ul id="city">
+    <li id="bj" name="BeiJing">北京</li>
+    <li>上海</li>
+    <li id="dj">东京</li>
+    <li id="se">首尔</li>
+</ul>
+
+<br><br>
+<p>你喜欢哪款单机游戏?</p>
+<ul id="game">
+    <li id="rl">红警</li>
+    <li>实况</li>
+    <li>极品飞车</li>
+    <li>魔兽</li>
+</ul>
+
+<br><br>
+gender:
+<input type="radio" name="gender" value="male"/>Male
+<input type="radio" name="gender" value="female"/>Female
+
+<br><br>
+name: <input type="text" name="username" value="atguigu"/>
+
+</body>
+</html>

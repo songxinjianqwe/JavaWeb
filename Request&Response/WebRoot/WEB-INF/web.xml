@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+  <servlet>
+    <servlet-name>ErrorServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.ErrorServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RedirectServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.RedirectServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RefreshServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.RefreshServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>StupidServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.StupidServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>NoCacheServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.NoCacheServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ImageServlet</servlet-name>
+    <servlet-class>me.newsong.web.response.ImageServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RequestHeaderServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.RequestHeaderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AntiStealingLinkServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.AntiStealingLinkServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RequestParameterServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.RequestParameterServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>FirstServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.FirstServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>SecondServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.SecondServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>IncludeFirstServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.IncludeFirstServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>IncludeSecondServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.IncludeSecondServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EncodingServlet</servlet-name>
+    <servlet-class>me.newsong.web.request.EncodingServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RequestEncpdingServlet</servlet-name>
+    <servlet-class>me.newsong.web.charset.RequestEncpdingServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>ErrorServlet</servlet-name>
+    <url-pattern>/ErrorServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RedirectServlet</servlet-name>
+    <url-pattern>/RedirectServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RefreshServlet</servlet-name>
+    <url-pattern>/RefreshServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StupidServlet</servlet-name>
+    <url-pattern>/StupidServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NoCacheServlet</servlet-name>
+    <url-pattern>/NoCacheServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImageServlet</servlet-name>
+    <url-pattern>/ImageServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RequestHeaderServlet</servlet-name>
+    <url-pattern>/RequestHeaderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AntiStealingLinkServlet</servlet-name>
+    <url-pattern>/AntiStealingLinkServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RequestParameterServlet</servlet-name>
+    <url-pattern>/RequestParameterServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FirstServlet</servlet-name>
+    <url-pattern>/FirstServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SecondServlet</servlet-name>
+    <url-pattern>/SecondServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IncludeFirstServlet</servlet-name>
+    <url-pattern>/IncludeFirstServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IncludeSecondServlet</servlet-name>
+    <url-pattern>/IncludeSecondServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EncodingServlet</servlet-name>
+    <url-pattern>/EncodingServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RequestEncpdingServlet</servlet-name>
+    <url-pattern>/RequestEncpdingServlet</url-pattern>
+  </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="jquery-3.1.1.js"></script>
+    <script type="text/javascript" >
+    $(function(){
+        $("#btn1").click(function(){
+            //:text和:enabled之间不能有空格
+            $(":text:enabled").val("呵呵哒");
+        });
+        $("#btn2").click(function(){
+            //:text和:disabled之间不能有空格
+            $(":text:disabled").val("哒哒哒");
+        });
+        $("#btn3").click(function(){
+            alert($(":checkbox[name='newsletter']:checked").length);
+        });
+        $("#btn4").click(function(){
+            //val方法只能返回数组的第一个元素的值，有多个元素时需要使用each方法，参数为一个function
+//                alert($(":checkbox:checked").val());
+            $(":checkbox:checked").each(function(){
+                alert($(this).val());
+            });
+        });
+        $("#btn5").click(function(){
+            //如果使用select，那么返回的是select标签；而我们需要的是option子标签
+            //所以在:checked之前加一个空格
+            $("select :checked").each(function(){
+                alert($(this).val());
+            });
+        });
+    });
+</script>
+</head>
+
+<body>
+<h3>表单对象属性过滤选择器</h3>
+<button id="btn1">对表单内 可用input 赋值操作.</button>
+<button id="btn2">对表单内 不可用input 赋值操作.</button><br /><br />
+<button id="btn3">获取多选框选中的个数.</button>
+<button id="btn4">获取多选框选中的内容.</button><br /><br />
+<button id="btn5">获取下拉框选中的内容.</button><br /><br />
+
+<form id="form1" action="#">
+    可用元素: <input type="text" name="add" value="可用文本框1"/><br>
+    不可用元素: <input type="text" name="email" disabled="true" value="不可用文本框"/><br>
+    可用元素: <input type="text" name="che" value="可用文本框2"/><br>
+    不可用元素: <input  type="text" name="name" disabled="true" value="不可用文本框"/><br>
+    <br>
+
+    多选框: <br>
+    <input type="checkbox" name="newsletter" checked="checked" value="test1" />test1
+    <input type="checkbox" name="newsletter" value="test2" />test2
+    <input type="checkbox" name="newsletter" value="test3" />test3
+    <input type="checkbox" name="newsletter" checked="checked" value="test4" />test4
+    <input type="checkbox" name="newsletter" value="test5" />test5
+
+    <br><br>
+    下拉列表1: <br>
+    <select name="test" multiple="multiple" style="height: 100px">
+        <option>浙江</option>
+        <option>辽宁</option>
+        <option>北京</option>
+        <option>天津</option>
+        <option>广州</option>
+        <option>湖北</option>
+    </select>
+
+    <br><br>
+    下拉列表2: <br>
+    <select name="test2">
+        <option>浙江</option>
+        <option>辽宁</option>
+        <option>北京</option>
+        <option>天津</option>
+        <option>广州</option>
+        <option>湖北</option>
+    </select>
+
+    <textarea rows="" cols=""></textarea>
+</form>
+</body>
+</html>

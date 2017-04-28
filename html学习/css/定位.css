@@ -1,0 +1,22 @@
+div{
+    width: 200px;
+    height: 100px;
+    border: solid aqua 5px;
+}
+#div1{
+    background-color: blue;
+    /*
+    position: absolute;
+    top:50px;
+    bottom: 100px;
+    */
+    position: relative;
+    top:100px;
+    left:300px;
+}
+#div2{
+    background-color: brown;
+}
+#div3{
+    background-color: deeppink;
+}

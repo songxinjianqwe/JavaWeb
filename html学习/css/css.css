@@ -1,0 +1,46 @@
+/*
+div.haha{
+    background-color: yellow;
+}
+
+p.haha{
+    background-color: yellow;
+}
+*/
+.haha{
+    background-color: yellow;
+}
+div.huhu{
+    background-color: aqua;
+}
+a:link{
+    background-color: blueviolet;
+}
+a:hover{
+    background-color: aquamarine;
+}
+a:active{
+    background-color: chartreuse;
+}
+a:visited{
+    background-color: crimson;
+}
+
+div{
+    width:200px;
+    height: 100px;
+    border: dotted 2px blue;
+    
+}
+#div2{
+    border-left: dashed yellow;
+    border-right: dashed yellow;
+    padding: 20px;
+}
+#div3{
+    padding-left: 30px;
+}
+
+#div1{
+    margin: 30px;
+}

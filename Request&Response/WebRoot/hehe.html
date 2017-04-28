@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hehe.html</title>
+	
+    <meta name="keywords" content="keyword1,keyword2,keyword3">
+    <meta name="description" content="this is my page">
+    <meta name="content-type" content="text/html; charset=UTF-8">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+
+  </head>
+  
+  <body>
+  	<a href="/Request&Response/RequestEncpdingServlet?username=用户名&password=密码" >点击这里，测试GET请求</a><br>
+  	<form action="/Request&Response/RequestEncpdingServlet" method="POST">
+  		用户名：<input type="text" name="username"><br>
+  		密    码：<input type="password" name="password"><br>
+  		爱    好：<input type="checkbox" name="hobby" value="eat">吃饭<br>
+  			   <input type="checkbox" name="hobby" value="sleep">睡觉<br>
+  			   <input type="checkbox" name="hobby" value="code">编程<br>
+  		<input type="submit" value="提交">
+  	</form>
+  </body>
+</html>
